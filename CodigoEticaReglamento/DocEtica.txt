@@ -1,0 +1,10 @@
+Equipo: "Boing"
+
+Integrantes del equipo:
+ - Andres Barragan Salas
+ - Ana Paola Minchaca Garcia
+ - Karen Isabel Morgado Castillo
+ - Etna Berenice Zarate Ramirez
+
+Actividades: 
+Se presento el caso de robo de informacion y datos a cuentas y usuarios de facebook, generando escandalos y se presentaron los principios del codigo etica de un ITC que podrian haber prevenido esta situacion. Despues de eso se resolvieron una serie de preguntas basandose en el reglamento del TEC.
