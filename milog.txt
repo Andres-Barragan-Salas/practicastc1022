@@ -1,0 +1,133 @@
+commit 2fa17545770feb9e5b13f8b6c0f2fd4009992552
+Merge: 4f65364 3f12da6
+Author: Andres-Barragan-Salas <A01026567@itesm.mx>
+Date:   Wed Nov 7 11:30:42 2018 -0600
+
+    Resolvi los conflictos
+
+commit 4f65364a01a1be7c7f79694cbc938a2f20741c5c
+Author: Andres-Barragan-Salas <A01026567@itesm.mx>
+Date:   Wed Nov 7 11:25:56 2018 -0600
+
+    actualizacion local
+
+commit 3f12da6acdae17cf0cf433d013d2b550d67556a4
+Author: Andres-Barragan-Salas <42215161+Andres-Barragan-Salas@users.noreply.github.com>
+Date:   Wed Nov 7 11:24:50 2018 -0600
+
+    Update tarea10.txt
+    
+    Modificación remota de tarea 10
+
+commit 9a8363e04735211b5659ec120921514b0db4bba3
+Merge: e51c1d1 eab78ed
+Author: Andres-Barragan-Salas <A01026567@itesm.mx>
+Date:   Wed Nov 7 11:13:54 2018 -0600
+
+    Merge branch 'master' of https://github.com/Andres-Barragan-Salas/practicastc1022
+    
+    Este merge es para combinar tarea 10 local con tarea 11 remota.
+
+commit eab78ed622807cc96d68fa0915ad62686a1f3178
+Author: Andres-Barragan-Salas <42215161+Andres-Barragan-Salas@users.noreply.github.com>
+Date:   Wed Nov 7 11:12:51 2018 -0600
+
+    Create tarea11.txt
+    
+    Subí mi tarea en el repositorio remoto
+
+commit e51c1d15cb0c8dbe4a387a9d7f037b441c890058
+Author: Andres-Barragan-Salas <A01026567@itesm.mx>
+Date:   Wed Nov 7 11:11:01 2018 -0600
+
+    tarea local
+
+commit 8023f7e268b95cdc444507d34135a42f4227fb83
+Author: Andres-Barragan-Salas <42215161+Andres-Barragan-Salas@users.noreply.github.com>
+Date:   Thu Oct 25 21:17:58 2018 -0500
+
+    Programa Primo Circular
+
+commit efd2b7944615cf0bc17d12984be37ebfb2ab5234
+Author: Andres-Barragan-Salas <42215161+Andres-Barragan-Salas@users.noreply.github.com>
+Date:   Wed Oct 24 12:43:05 2018 -0500
+
+    Programa de Numeros Naturales Perfectos
+
+commit 4e5fbfac40cf1a590a7cf7c01a7a3772125503de
+Author: Andres-Barragan-Salas <42215161+Andres-Barragan-Salas@users.noreply.github.com>
+Date:   Wed Oct 24 12:21:21 2018 -0500
+
+    Programa año bisiesto
+
+commit bbe33851194a009b17bd8d8e11e802bcb76df915
+Author: Andres-Barragan-Salas <42215161+Andres-Barragan-Salas@users.noreply.github.com>
+Date:   Wed Oct 24 11:31:43 2018 -0500
+
+    Add files via upload
+    
+    Practica de Git
+
+commit 357ba7403c06a63e6253c5b9a327ca50864631cd
+Author: Andres-Barragan-Salas <A01026567@itesm.mx>
+Date:   Wed Oct 24 11:15:57 2018 -0500
+
+    El resto de las tareas
+
+commit c85761c7403a350fbe809df3a2532ecfe650a261
+Author: Andres-Barragan-Salas <42215161+Andres-Barragan-Salas@users.noreply.github.com>
+Date:   Wed Oct 24 11:11:49 2018 -0500
+
+    Add files via upload
+    
+    Demás tareas
+
+commit 022f256207f660554a93a0f887145aa3fefefc0b
+Author: Andres-Barragan-Salas <A01026567@itesm.mx>
+Date:   Wed Oct 24 11:05:59 2018 -0500
+
+    Tarea 1
+
+commit 57d751baa1ca2568cd2531d5fd1c1332a374b67d
+Author: Andres-Barragan-Salas <42215161+Andres-Barragan-Salas@users.noreply.github.com>
+Date:   Wed Oct 24 10:56:45 2018 -0500
+
+    Add files via upload
+
+commit 41ecebfb3131a2771f253d29a1f57a7bee57a84d
+Author: Andres-Barragan-Salas <42215161+Andres-Barragan-Salas@users.noreply.github.com>
+Date:   Wed Oct 24 10:54:05 2018 -0500
+
+    Add files via upload
+    
+    Tarea plática Drink IQ
+
+commit 24f6c46ea4128fd83f032e11894c1fc621d551c5
+Author: Andres-Barragan-Salas <42215161+Andres-Barragan-Salas@users.noreply.github.com>
+Date:   Wed Oct 24 10:42:22 2018 -0500
+
+    Delete A01026567MyPrivateKey.gpg
+
+commit f1f9019dffa867e71ade0ccb09c0a7f4af2293e0
+Author: Andres-Barragan-Salas <42215161+Andres-Barragan-Salas@users.noreply.github.com>
+Date:   Wed Oct 24 10:40:55 2018 -0500
+
+    Delete myPublicKey.gpg
+
+commit e29068b58792500d49eefb6074e968563f71a71a
+Author: Andres-Barragan-Salas <42215161+Andres-Barragan-Salas@users.noreply.github.com>
+Date:   Wed Oct 24 10:40:44 2018 -0500
+
+    Delete MatriculaMyPublicKey.gpg
+
+commit 299f7d5d46b7624a69ea1ab2b97f842de5e524f6
+Author: Andres-Barragan-Salas <A01026567@itesm.mx>
+Date:   Wed Oct 24 10:36:46 2018 -0500
+
+    exportar llaves publicas y privadas
+
+commit 1945e1676beda4a1ec63abd44c917c4995779559
+Author: Andres-Barragan-Salas <A01026567@itesm.mx>
+Date:   Wed Oct 10 12:27:15 2018 -0500
+
+    primer commit
