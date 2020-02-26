@@ -1,7 +1,14 @@
+/*************************************************
+ * Andrés Barragán Salas: A01026567
+ * Rodrigo Quiroz Reyes: A01026546
+ * Esteban Manrique de Lara Sirvent: A01027077
+ *************************************************/
+
 #include <linux/kernel.h>
 #include <linux/module.h>
 #include <linux/proc_fs.h>
 #include <linux/uaccess.h>
+#include <linux/param.h>
 
 #define BUFFER_SIZE 128
 #define PROC_NAME "hello"
@@ -41,7 +48,7 @@ ssize_t proc_read(struct file *file, char __user *usr_buf, size_t count, loff_t 
 
 	completed = 1;
 
-	rv = sprintf(buffer, "Hello world\n");
+	rv = sprintf(buffer, "The HZ value is: %lu\n", HZ);
 	/* copies kernel space buffer to user space usr_buf */
 	copy_to_user(usr_buf, buffer, rv);
 	return rv;

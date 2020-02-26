@@ -1,12 +1,19 @@
+/***********************************************
+ * Andrés Barragan Salas: A01026567
+ * Rodrigo Quiroz Reyes: A01026546
+ * Esteban Manrique de Lara Sirvent: A01027077
+ ***********************************************/
+
 #include <linux/init.h>
 #include <linux/kernel.h>
 #include <linux/module.h>
-
+#include <linux/param.h>
 
 /* This function is called when the module is loaded. */
 int simple_init(void)
 {
 	printk(KERN_INFO "Loading Kernel Module\n");
+	printk(KERN_INFO "%lu", HZ);
 
 	return 0;
 }
